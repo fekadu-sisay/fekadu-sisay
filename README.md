@@ -4,9 +4,6 @@
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fekadusisay21&label=Profile%20views&color=0e75b6&style=flat" alt="fekadusisay21" /> </p>
 
-- 🔭 I’m currently working on **News Aggregator**
-
-- 🌱 I’m currently learning **Flutter**
 
 - 💬 Ask me about **React, Vue and Django**
 
